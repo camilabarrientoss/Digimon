@@ -1,0 +1,36 @@
+.navbar {
+    background-color: #f8e6f7;
+}
+
+.navbar-brand,
+.nav-link {
+    color: rgb(20, 18, 18);
+}
+
+#card {
+    width: 20%;
+    float: left;
+    text-align: center;
+}
+
+#tabla_principal {
+    background-color: white;
+    margin-top: 3%;
+}
+
+#tabla_nivel {
+    display: none;
+    margin-top: 3%;
+}
+
+#card {
+    width: 20%;
+    float: left;
+    text-align: center;
+}
+
+#tarjSola {
+    text-align: center;
+    background-color: rgb(245, 222, 236);
+    margin-top: 3%;
+}
