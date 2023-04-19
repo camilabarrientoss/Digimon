@@ -1,3 +1,5 @@
-Aqui va el link al repositorio
+Acá esta la URL del repositorio
+https://github.com/camilabarrientoss/Digimon
 
-Aqui el link al clon
+Para clonar seria:
+git clone https://github.com/camilabarrientoss/Digimon.git
